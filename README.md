@@ -1,5 +1,8 @@
 # circuitry-seismograph
 
+[![Code Climate](https://codeclimate.com/github/kapost/circuitry-seismograph/badges/gpa.svg)](https://codeclimate.com/github/kapost/circuitry-seismograph)
+[![Test Coverage](https://codeclimate.com/github/kapost/circuitry-seismograph/badges/coverage.svg)](https://codeclimate.com/github/kapost/circuitry-seismograph/coverage)
+
 Adds [circuitry](https://github.com/kapost/circuitry) publisher & subscriber middlewares for
 tracking message processing via [DataDog](https://www.datadoghq.com/).
 
